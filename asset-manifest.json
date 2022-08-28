@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/my-chechk-list/static/css/main.17a14e29.css",
+    "main.js": "/my-chechk-list/static/js/main.540299de.js",
+    "index.html": "/my-chechk-list/index.html",
+    "main.17a14e29.css.map": "/my-chechk-list/static/css/main.17a14e29.css.map",
+    "main.540299de.js.map": "/my-chechk-list/static/js/main.540299de.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.17a14e29.css",
+    "static/js/main.540299de.js"
+  ]
+}
