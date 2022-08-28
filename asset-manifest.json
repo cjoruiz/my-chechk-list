@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/my-chechk-list/static/css/main.19386db6.css",
-    "main.js": "/my-chechk-list/static/js/main.dc5ed5d6.js",
+    "main.js": "/my-chechk-list/static/js/main.98166d24.js",
     "index.html": "/my-chechk-list/index.html",
     "static/media/delete.svg": "/my-chechk-list/static/media/delete.a2ce781d87539ab422ca9b3bbc2b4508.svg",
     "static/media/check.svg": "/my-chechk-list/static/media/check.38f596e64d38d54463f988385b633c05.svg",
     "main.19386db6.css.map": "/my-chechk-list/static/css/main.19386db6.css.map",
-    "main.dc5ed5d6.js.map": "/my-chechk-list/static/js/main.dc5ed5d6.js.map"
+    "main.98166d24.js.map": "/my-chechk-list/static/js/main.98166d24.js.map"
   },
   "entrypoints": [
     "static/css/main.19386db6.css",
-    "static/js/main.dc5ed5d6.js"
+    "static/js/main.98166d24.js"
   ]
 }
